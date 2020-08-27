@@ -31,5 +31,5 @@ By default, rust variables are immutable (cannot be changed). if you want to cha
 let mut a = 20;
 a = 45;
 ```
-The above code will work because the mut word was added without the compiler throwing an error
+The above code will work because the mut word was added and the compiler will not throw an error
 
